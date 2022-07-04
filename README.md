@@ -1,0 +1,2 @@
+# localstack-headstart
+LocalStack - Headstart
